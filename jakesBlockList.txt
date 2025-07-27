@@ -1,15 +1,21 @@
-cafemedia.com
-cdn.cafemedia.com
-pubmatic.com
-criteo.com
-pulsepoint.com
-liveramp.com
-rhythmone.com
-districtm.com
-yieldmo.com
-indexexchange.com
-sovrn.com
-gumgum.com
-digitalremedy.com
-mediagrid.com
-revcontent.com
+! Title: Jake's Custom Ad Blocklist
+! Description: Blocks ads from TheWholeCook and related ad providers.
+! Version: 1.0.0
+! Homepage: N/A
+! Last modified: 2025-07-27T00:00:00Z
+!
+||cafemedia.com^
+||cdn.cafemedia.com^
+||pubmatic.com^
+||criteo.com^
+||pulsepoint.com^
+||liveramp.com^
+||rhythmone.com^
+||districtm.com^
+||yieldmo.com^
+||indexexchange.com^
+||sovrn.com^
+||gumgum.com^
+||digitalremedy.com^
+||mediagrid.com^
+||revcontent.com^
