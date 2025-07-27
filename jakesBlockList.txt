@@ -4,18 +4,6 @@
 ! Homepage: N/A
 ! Last modified: 2025-07-27T00:00:00Z
 !
-||cafemedia.com^
-||cdn.cafemedia.com^
-||pubmatic.com^
-||criteo.com^
-||pulsepoint.com^
-||liveramp.com^
-||rhythmone.com^
-||districtm.com^
-||yieldmo.com^
-||indexexchange.com^
-||sovrn.com^
-||gumgum.com^
-||digitalremedy.com^
-||mediagrid.com^
-||revcontent.com^
+||adthrive.com^
+||ads.adthrive.com^
+
